@@ -10,7 +10,7 @@
  
  🔭 Je travaille sur un projet de **jeu vidéo** (3D Platformer)
  
- 🌱 En ce moment, j'apprend : **JS, Tailwind & React** (beginner)
+ 🌱 En ce moment, j'apprend ces langages et outils de programmation... : **JS, Tailwind & React** (beginner)
  
  </div>
 
