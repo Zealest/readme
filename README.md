@@ -38,6 +38,6 @@
 
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git,react,bootstrap,nodejs,javascript,c&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git,react,vue,vite,flutter,nextjs,ruby,threejs,bootstrap,nodejs,javascript,cs&perline=6"/>
 </div>
 <br>
