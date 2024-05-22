@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer
 -------------------
 
-Front-end enthusiast aspiring to be a full-stack developer! Beyond code, I create in 3D on Blender, wield VFX in After Effects, and compose beats on FL Studio. 🎨🎬🎶 DM me on my socials for a chat! 📲
+Front-end enthusiast aspiring to be a full-stack developer! Beyond code, I compose beats on FL Studio. 🎨🎬🎶 DM me on my socials for a chat! 📲
 
 * 🌍  I'm based in Bordeaux, France
 * 🖥️  See my portfolio at [frontendmentor.io](http://www.frontendmentor.io/profile/Zealest)
